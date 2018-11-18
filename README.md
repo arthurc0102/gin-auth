@@ -1,6 +1,6 @@
 # Gin Auth
 
-> Go practice project
+> Go practice project, auth with JWT
 
 ## Env example
 ```
